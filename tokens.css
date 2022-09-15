@@ -1,0 +1,10 @@
+:root {
+  --font-family-heading: 'Source Sans Pro', sans-serif;
+  --font-family-body: 'Roboto', sans-serif;
+  --font-weight-normal: 400;
+  --font-weight-semibold: 500;
+  --color-background: #FFFFFF;
+  --color-primary-light: #4266B3;
+  --color-primary-default: #16233F;
+  --color-primary-dark: #06080F;
+}
